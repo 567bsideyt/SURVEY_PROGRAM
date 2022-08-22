@@ -1,48 +1,32 @@
 {
-	"songs": [
-		[
-			"Ugh",
-			"tankman",
-			[
-				246,
-				182,
-				4
-			]
-		],
-		[
-			"Guns",
-			"tankman",
-			[
-				246,
-				182,
-				4
-			]
-		],
-		[
-			"Stress",
-			"tankman",
-			[
-				246,
-				182,
-				4
-			]
-		]
-	],
+	"storyName": "smile of the year",
+	"difficulties": "Hard",
 	"hideFreeplay": false,
-	"weekBackground": "tank",
-	"weekCharacters": [
-		"tankman",
-		"bf",
-		"gf"
-	],
-	"storyName": "Tankman",
-	"weekName": "Week 7",
+	"weekBackground": "thesperus",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "jevil",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"smile-award",
+			"thesperus",
+			[
+				255,
+				0,
+				120
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"weekBefore": "week6",
-	"startUnlocked": true
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

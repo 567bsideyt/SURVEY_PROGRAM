@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+	"storyName": "its pronnounced rules",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "rouxls",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"parents-christmas",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "christmas",
-
-	"storyName": "RED SNOW",
-	"weekBefore": "week4",
-	"weekName": "Week 5",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"chips-ahoyeth",
+			"eth",
+			[
+				146,
+				253,
+				95
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

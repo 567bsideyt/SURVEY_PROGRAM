@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "BIG SHOT",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "neo",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-	
-	"weekCharacters": [
-		"mom",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"HYPERLINK",
+			"neo",
+			[
+				215,
+				200,
+				255
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

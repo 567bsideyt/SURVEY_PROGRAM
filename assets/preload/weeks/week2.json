@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "chaos chaos chaos chaos chaos chaos chaos chaos chaos chaos chaos chaos ch",
+	"difficulties": "Easy, Normal, Hard, Chaos",
+	"hideFreeplay": false,
+	"weekBackground": "jevil",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"weekBefore": "",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ragdoll-chaos",
+			"jevil",
+			[
+				60,
+				80,
+				120
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Joker",
+	"hiddenUntilUnlocked": false
 }

@@ -1,22 +1,32 @@
 {
-	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+	"storyName": "vs. susie",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "susie",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"senpai",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "school",
-
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
-	"weekName": "Week 6",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"in-my-way",
+			"susie",
+			[
+				100,
+				33,
+				95
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }
